@@ -14,7 +14,7 @@ Create your test file:
 
 ```js
 // test.js
-const bench = require('@lokua/bench)
+const bench = require('@lokua/bench')
 
 bench({
   'Test 1': () => {
