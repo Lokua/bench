@@ -1,0 +1,16 @@
+{
+  "name": "@lokua/bench",
+  "version": "1.0.0",
+  "description":
+    "Tiny test function using Benchmark.js for quick perf insights",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": ["benchmark", "test"],
+  "author": "Joshua Kleckner <dev@lokua.net>",
+  "license": "MIT",
+  "dependencies": {
+    "benchmark": "2.1.4"
+  }
+}
